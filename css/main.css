@@ -1,0 +1,88 @@
+
+body {
+	background-image: url('../images/bricks.png');
+	
+
+}
+
+
+h1 {
+	font-size: 2.8em;
+	font-family:Avantgarde, sans-serif;
+	font-weight: 1000;
+    color:firebrick;
+	margin-left: 14em;
+	margin-top:4em;
+}
+
+.btn {
+	margin-left: 2em;
+	margin-top: 2em;
+	width:4em;
+	height:37px;
+     border-radius: 5px 5px;
+     background-color:orange;
+     font-size:19px;
+     font-family: Blippo, fantasy;
+    border-color: brown;
+    cursor:pointer;
+}
+
+
+}
+
+.checkbox {
+	width:20px;
+	height:20px;
+	border-radius: 3px;
+	border-color: brown;
+}
+
+.custinput {
+	width: 25em;
+	height:30.5px;
+	border-radius:5px 5px;
+	border-color: brown;
+	margin-left: 60em;
+	cursor: pointer;
+
+	}
+
+   .edit {
+   	text-align: right;
+   	font-size: 20px;
+   	min-width: 900px;
+   }
+
+
+
+	.edit span {
+		cursor:pointer;
+		color:brown;
+		font-size: 30px;
+		margin-left: 36em;
+
+	}
+
+h3{ 
+
+	color: brown;
+	margin-left: 25em;
+	margin-top: 2em;
+	font-size: 33px;
+}
+
+
+thead tr {
+	border:none;
+}
+tr{
+	border-bottom: 1px solid brown;
+}
+
+.cross {
+
+	display:none;
+	cursor:pointer;
+}
+
